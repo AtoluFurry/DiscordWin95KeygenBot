@@ -1,0 +1,15 @@
+{
+  "name": "stojak-v.2",
+  "version": "1.0.0",
+  "description": "Official PSF bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "STOJAK"
+  },
+  "author": "Atolu",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "eslint": "^7.16.0"
+  }
+}
